@@ -1,0 +1,23 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "node actions via github",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha **/**.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pejrak/node-actions.git"
+  },
+  "author": "Peter Berezny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pejrak/node-actions/issues"
+  },
+  "homepage": "https://github.com/pejrak/node-actions#readme"
+}
